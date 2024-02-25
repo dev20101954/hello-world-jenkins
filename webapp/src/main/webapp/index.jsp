@@ -21,7 +21,7 @@ p {
 <body>
 
 <h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
+<p>HI ITS DEV.</p>
 
 </body>
 </html>
