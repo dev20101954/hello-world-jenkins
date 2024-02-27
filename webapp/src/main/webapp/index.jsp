@@ -21,7 +21,7 @@ p {
 <body>
 
 <h1>My First CSS Example</h1>
-<p>HI ITS SANKET.</p>
+<p>HI ITS DEV-SEC.</p>
 
 </body>
 </html>
